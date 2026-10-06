@@ -51,7 +51,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack !
 - **Frontend**: HTML5, Vanilla JavaScript (ES6+ Classes), Modern CSS Design Tokens
 - **Sound**: Web Audio API (zero external audio file dependencies)
 - **QR Engine**: Standalone vector QR code generation (`qrcode-generator`)
